@@ -1,15 +1,3 @@
-
-paste
-SIGN IN SIGN UP
-Guest User
- discord bot
-A GUEST
-AUG 1ST, 2020
-7
-NEVER
-Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
-0.84 KB
-  
 #importing the packages
 import discord
 import random
