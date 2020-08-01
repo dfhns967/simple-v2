@@ -3,7 +3,7 @@ import discord
 import random
  
 #the nedded vars
-Token = "NzM4OTA2NzI1MjU1NjEwMzY5. XySugw.hzp4o8lILpRPiw1QdPpVoetklCw
+Token = "NzM4OTA2NzI1MjU1NjEwMzY5.XySugw.hzp4o8lILpRPiw1QdPpVoetklCw"
 client = discord.Client()
  
 #for random picking
